@@ -2,6 +2,8 @@
 
 This repository is a sample for using SAML with Azure B2C
 
+_A simple DotNet Core2 SAML Identity / Service Provider for B2C **Training or Testing purposes only**_
+
 The folder SamlTestApp contains the solution for the B2C demo app for SAML  
 
 Find and replace *YOUR-WEBSITE* and *YOUR_TENANT_ID* in the settings in the files: 
