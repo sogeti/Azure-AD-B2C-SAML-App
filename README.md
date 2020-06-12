@@ -4,7 +4,7 @@ This repository is a sample for using SAML with Azure B2C
 
 The folder SamlTestApp contains the solution for the B2C demo app for SAML  
 
-Settings for the tenant are in files:  
+Find and replace *YOUR-WEBSITE* and *YOUR_TENANT_ID* in the settings in the files: 
 - B2CPolicyTemplate.xml
 - appsettings.json
 
