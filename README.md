@@ -1,5 +1,7 @@
 # Azure-AD-B2C-SAML-App
 
+![.NET Core](https://github.com/sogeti/Azure-AD-B2C-SAML-App/workflows/.NET%20Core/badge.svg)
+
 This repository is a sample for using SAML with Azure B2C
 
 _A simple DotNet Core2 SAML Identity / Service Provider for B2C **Training or Testing purposes only**_
