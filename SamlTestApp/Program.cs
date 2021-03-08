@@ -14,6 +14,5 @@ namespace SAMLTEST
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
-
     }
 }
